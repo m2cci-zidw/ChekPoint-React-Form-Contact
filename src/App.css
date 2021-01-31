@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+ 
+/* **************nv css */
+.formulaire{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+ 
+}
+.formulaire-d,.formulaire-g{
+  margin: 40px;
+}
+#navbarSupportedContent{
+  justify-content: space-between;
+}
+.image-zw{
+  width: 200px;
+}
